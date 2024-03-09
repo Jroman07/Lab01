@@ -1,0 +1,14 @@
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\bin\Debug\net7.0\Laboratorio#1.exe
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\bin\Debug\net7.0\Laboratorio#1.deps.json
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\bin\Debug\net7.0\Laboratorio#1.runtimeconfig.json
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\bin\Debug\net7.0\Laboratorio#1.dll
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\bin\Debug\net7.0\Laboratorio#1.pdb
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.AssemblyInfoInputs.cache
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.AssemblyInfo.cs
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.csproj.CoreCompileInputs.cache
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.dll
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\refint\Laboratorio#1.dll
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.pdb
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\Laboratorio#1.genruntimeconfig.cache
+C:\Documentos\Promación II\Laboratorio#1\Laboratorio#1\Laboratorio#1\obj\Debug\net7.0\ref\Laboratorio#1.dll
